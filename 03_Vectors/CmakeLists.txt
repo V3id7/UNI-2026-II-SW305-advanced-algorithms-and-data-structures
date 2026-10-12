@@ -1,0 +1,3 @@
+project(03_Vectors)
+
+add_executable(03_Vectors main.cpp)
