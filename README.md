@@ -21,13 +21,15 @@ C++ is used as a tool to implement the concepts covered in the course.
 
 ## Current Contents
 
-| Folder              | Contents                       |
-| ------------------- | ------------------------------ |
-| `01_BuildingBlocks` | Basic functions and utilities. |
-| `02_Arrays`         | Examples using `std::array`.   |
-| `03_Vectors`        | Examples using `std::vector`.  |
-| `04_Deques`         | Examples using `std::deque`.   |
-| `05_Lists`          | Examples using `std::list`.    |
+| Folder             | Contents                                       |
+| ------------------ | ---------------------------------------------- |
+| `01_BuildingBlocks` | Basic functions and utilities.                 |
+| `02_Arrays`        | Examples using `std::array`.                    |
+| `03_Vectors`       | Examples using `std::vector`.                   |
+| `04_Deques`        | Examples using `std::deque`.                    |
+| `05_Lists`         | Examples using `std::list`.                     |
+| `06_Sets`          | Examples using `std::set` and `std::multiset`.   |
+| `07_Maps`          | Examples using `std::map`.                      |
 
 The repository will be updated as the course progresses.
 
